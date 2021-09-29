@@ -2,7 +2,7 @@
 
 I am a Junior Software Engineer with a passionate love for front-end and web development.
 
-- I'm currently building out my <a href='patadam.dev'>personal portfolio</a> and extending my skills.
+- I'm currently building out my <a href='https://patadam.netlify.app/'>personal portfolio</a> and extending my skills.
 - Every day is a new learning experience. I'm currently focusing on my HTML / CSS.
 
 
