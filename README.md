@@ -1,9 +1,9 @@
 ## Hi there, I'm Patadam 👋
 
-I am a Junior Software Engineer with a passionate love for front-end and web development.
+I am a Junior Software Developer with a passionate love for front-end and web development.
 
 - I'm currently building out my <a href='https://patadam.netlify.app/'>personal portfolio</a> and extending my skills.
-- Every day is a new learning experience. I'm currently focusing on my HTML / CSS.
+- Every day is a new learning experience. I'm currently focusing on my fundamentals with HTML / CSS / Javascript.
 
 
 ![Patadam github stats](https://github-readme-stats.vercel.app/api?username=Patadam&show_icons=true&hide_border=true)
