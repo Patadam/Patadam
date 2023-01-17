@@ -2,7 +2,7 @@
 
 I am a Junior Software Developer with a passionate love for front-end and web development.
 
-- Have a look at my portfolio here, and leave some feedback. <a target='_blank' href='https://patadamrich.com/'>personal portfolio</a>
+- Have a look at my <a target='_blank' href='https://patadamrich.com/'>personal portfolio</a>, and leave some feedback on where I can improve. I am constantly looking to make improvements. 
 - I'm continuing to develop my skills and pursuing a computer science degree
 
 
