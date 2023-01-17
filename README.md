@@ -2,8 +2,8 @@
 
 I am a Junior Software Developer with a passionate love for front-end and web development.
 
-- I'm currently building out my <a target='_blank' href='https://patadamrich.com/'>personal portfolio</a> and extending my skills.
-- Every day is a new learning experience. I'm currently focusing on my fundamentals with HTML / CSS / Javascript.
+- Have a look at my portfolio here, and leave some feedback. <a target='_blank' href='https://patadamrich.com/'>personal portfolio</a>
+- I'm continuing to develop my skills and pursuing a computer science degree
 
 
 ![Patadam github stats](https://github-readme-stats.vercel.app/api?username=Patadam&show_icons=true&hide_border=true)
