@@ -1,4 +1,4 @@
-<h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hello there!</h3>
+<h2><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hello there!</h2>
 
 I'm a studying software developer with a passion for front-end and web development. 
 
